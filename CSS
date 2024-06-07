@@ -75,6 +75,12 @@ header nav ul li {
   padding: 10px 20px;
   background-color: white;
   border-radius: 5px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header nav ul li a{
+text-decoration: none;
+color:black;
 }
 
 header nav ul .contact {
